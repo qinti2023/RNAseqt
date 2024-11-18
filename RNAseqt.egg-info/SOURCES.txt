@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+RNAseqt/__init__.py
+RNAseqt/main.py
+RNAseqt.egg-info/PKG-INFO
+RNAseqt.egg-info/SOURCES.txt
+RNAseqt.egg-info/dependency_links.txt
+RNAseqt.egg-info/entry_points.txt
+RNAseqt.egg-info/top_level.txt

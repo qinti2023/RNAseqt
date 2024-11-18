@@ -1,0 +1,2 @@
+[console_scripts]
+RNAseqt = RNAseqt.main:main
